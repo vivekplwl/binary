@@ -19,6 +19,12 @@
     NSLog(@"application did finish launching"); 
     ////
     NSLog(@"application sdfdsfsddid finish launching");
+    
+    NSLog(@"application did finish launching"); 
+    ////
+    NSLog(@"application sdfdsfsddid finish launching");
+    
+    
     return YES;
 }
 							
